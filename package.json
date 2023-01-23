@@ -1,0 +1,23 @@
+{
+  "name": "cytus2lemonfinderbot",
+  "version": "1.0.0",
+  "description": "discord bot to calculate the amount of lemon perfects in a score",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProbablyNotPetey/Cytus2LemonFinderBot.git"
+  },
+  "author": "Petey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProbablyNotPetey/Cytus2LemonFinderBot/issues"
+  },
+  "homepage": "https://github.com/ProbablyNotPetey/Cytus2LemonFinderBot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
